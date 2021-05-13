@@ -1,8 +1,8 @@
 # Course related
 
-.in
-.out
-.pyc
+*.in
+*.out
+*.pyc
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
